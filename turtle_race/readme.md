@@ -22,6 +22,11 @@ This script creates a fun and interactive turtle racing game where turtles of di
     ```bash
     python turtle_race.py
     ```
+## Preview
+![image](https://github.com/priyanshupant/python_mini_projects/assets/50315906/5d6cf7b8-e5c8-4110-a70b-378a143a2de8)
+![image](https://github.com/priyanshupant/python_mini_projects/assets/50315906/7a0e86fb-1da5-45fb-a109-0b81ec630ecb)
+
+![image](https://github.com/priyanshupant/python_mini_projects/assets/50315906/d2b23bda-388f-4ae6-9556-aa51068b930f)
 
 ## Usage
 
@@ -42,4 +47,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 - Thanks to the Turtle graphics library for making this simple game possible.
 - Inspiration: [https://www.udemy.com/course/100-days-of-code/]
+
 
